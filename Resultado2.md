@@ -13,5 +13,5 @@ y se ha desarrollado lo siguiente:
 
 El segundo resultado nos muestra los rangos de edades de personas que padecen enfermedades respiratorias. 
 
-Mujeres entre 30 y 50 años padecen de alguna enfermedad respiratoria
-Hombres entre 15 y 55 años padecen de alguna enfermedad respiratoria. 
+* Mujeres entre 30 y 50 años padecen de alguna enfermedad respiratoria
+* Hombres entre 15 y 55 años padecen de alguna enfermedad respiratoria. 
