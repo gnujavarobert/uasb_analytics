@@ -16,4 +16,4 @@ y se ha desarrollado lo siguiente:
 
 #Conclusiones
 
-El último resultado nos muestra una estadística predictiva del 64,20 % de presición; indicando que se incrementara el número de personas que padeceran alguna enfermedad respiratoria crónica con un rango de 7.04 % y 8.54 %.
+El último resultado nos muestra una estadística predictiva del 64,20 % de presición; indicando que se incrementara el número de personas que padeceran alguna enfermedad respiratoria crónica dentro de un rango de 7.04 % a 8.54 %.
