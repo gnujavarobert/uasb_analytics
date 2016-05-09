@@ -6,13 +6,13 @@ Proceso: Para elaborar el proceso se ha importado los datos del dataset respirat
 y se ha desarrollado lo siguiente:
 
 1. Retrieve respiratorias, la base de datos.
-2. Numerical to Binomial, para convertir los datos enteros a binomial (true or false)
-2. Set Role, con las siguientes propiedades attribute name = baseline y target role = label.
-3. Validation, para obtener las predicciones a su vez se divide en subprocesos:
+2. Numerical to Binomial, para convertir los datos enteros a binomial (true or false).
+3. Set Role, con las siguientes propiedades attribute name = baseline y target role = label.
+4. Validation, para obtener las predicciones a su vez se divide en subprocesos:
 
-	3.1 Logistic, Creación del modelo
-	3.2 Apply Model, aplicación del modelo
-	3.3 Performance, Evalución del modelo
+	* 3.1 Logistic, Creación del modelo
+	* 3.2 Apply Model, aplicación del modelo
+	* 3.3 Performance, Evalución del modelo
 
 #Conclusiones
 
